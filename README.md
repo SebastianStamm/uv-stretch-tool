@@ -1,4 +1,4 @@
-# uv-size-tool
+# uv-stretch-tool
 
 This little tool helps you estimate stretch of an UV map for a three-dimensional model.
 
